@@ -1,0 +1,50 @@
+{
+    "name": "Stellar Blade GX",
+    "description": "Reclaim Earth for Humankind by using this Opera GX mod. Eve needs your help!",
+    "update_url": "https://api.gx.me/store/mods/update",
+    "version": "0.1",
+    "developer": {
+      "name": "ThaBamboozler"
+    },
+    "manifest_version": 3,
+    "icons": {
+      "512": "icon_512.png"
+    },
+    "mod": {
+      "license": "license.txt",
+      "schema_version": 2,
+      "tags": [ "stellar blade", "stellarblade", "stellar-blade", "stelar blade", "steler blade" ],
+      "payload": {
+        "theme": [
+          {
+            "id": "theme_01",
+            "name": "Stellar Blade GX (Theme)",
+            "dark": {
+              "gx_accent": {
+                "h": 100,
+                "s": 100,
+                "l": 60
+              },
+              "gx_secondary_base": {
+                "h": 185,
+                "s": 60,
+                "l": 16
+              }
+            },
+            "light": {
+              "gx_accent": {
+                "h": 224,
+                "s": 90,
+                "l": 50
+              },
+              "gx_secondary_base": {
+                "h": 222,
+                "s": 81,
+                "l": 87
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
