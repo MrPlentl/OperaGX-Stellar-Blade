@@ -2,7 +2,7 @@
     "name": "Stellar Blade GX",
     "description": "Reclaim Earth for Humankind by using this Opera GX mod. Eve needs your help!",
     "update_url": "https://api.gx.me/store/mods/update",
-    "version": "0.5",
+    "version": "0.7",
     "developer": {
       "name": "ThaBamboozler"
     },
@@ -15,6 +15,88 @@
       "schema_version": 2,
       "tags": [ "stellar blade", "stellarblade", "stellar-blade", "stelar blade", "steler blade" ],
       "payload": {
+        "background_music": [
+          {
+            "id": "background_music_01",
+            "name": "Stellar Blade GX (BG Music Chill Trax)",
+            "tracks": [
+              "music/stellar-blade-chill-trax.mp3"
+            ]
+          }
+        ],
+        "browser_sounds": [
+          {
+            "id": "browser_sounds_01",
+            "name": "Stellar Blade GX (Browser Sounds)",
+            "sounds": {
+              "CLICK": [
+                "sounds/sb_click.mp3"
+              ],
+              "FEATURE_SWITCH_OFF": [
+                "sounds/sb_feature_switch_off.mp3"
+              ],
+              "FEATURE_SWITCH_ON": [
+                "sounds/sb_feature_switch_on.mp3"
+              ],
+              "HOVER_UP": [
+                "sounds/sb_hover_up.mp3"
+              ],
+              "HOVER": [
+                "sounds/sb_hover.mp3"
+              ],
+              "IMPORTANT_CLICK": [
+                "sounds/sb_important_click.mp3"
+              ],
+              "LEVEL_UPGRADE": [
+                "sounds/sb_level_upgrade.mp3"
+              ],
+              "LIMITER_OFF": [
+                "sounds/sb_limiter_off.mp3"
+              ],
+              "LIMITER_ON": [
+                "sounds/sb_limiter_on.mp3"
+              ],
+              "SWITCH_TOGGLE": [
+                "sounds/sb_switch_toggle.mp3"
+              ],
+              "TAB_CLOSE": [
+                "sounds/sb_tab_close.mp3"
+              ],
+              "TAB_INSERT": [
+                "sounds/sb_tab_insert.mp3"
+              ],
+              "TAB_SLASH": [
+                "sounds/sb_tab_slash.mp3"
+              ]
+            }
+          }
+        ],
+        "keyboard_sounds": [
+          {
+            "id": "keyboard_sounds_01",
+            "name": "Stellar Blade GX (Keyboard)",
+            "sounds": {
+              "TYPING_BACKSPACE": [
+                "keyboard/sb_backspace.mp3"
+              ],
+              "TYPING_ENTER": [
+                "keyboard/sb_enter.mp3"
+              ],
+              "TYPING_LETTER": [
+                "keyboard/sb_letter_1.mp3",
+                "keyboard/sb_letter_2.mp3",
+                "keyboard/sb_letter_1.mp3",
+                "keyboard/sb_letter_1.mp3",
+                "keyboard/sb_letter_1.mp3",
+                "keyboard/sb_letter_2.mp3",
+                "keyboard/sb_letter_2.mp3"
+              ],
+              "TYPING_SPACE": [
+                "keyboard/sb_space.mp3"
+              ]
+            }
+          }
+        ],
         "image_overrides": [
           {
             "id": "image_overrides_01",
