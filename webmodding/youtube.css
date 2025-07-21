@@ -1,0 +1,21 @@
+/* Add green border around the YouTube video player */
+ytd-player {
+    border-bottom: 1px solid env(-opera-gx-accent-color) !important;
+    border-radius: 0px; /* Optional: rounded corners */
+  }
+  
+  /* Add green border around the actual video element */
+  video.html5-main-video {
+    border-bottom: 1px solid env(-opera-gx-accent-color) !important;
+  }
+
+  
+  #video-title-link yt-formatted-string {
+    font-family: 'Lucida Console', Courier, monospace !important;
+    font-size: 20px !important;
+    font-weight: normal !important;
+    font-variant: small-caps !important;
+    color: env(-opera-gx-accent-color) !important;
+    text-shadow: 1px 1px 6px env(-opera-gx-accent-color) !important;
+    /* word-spacing: -6px !important; */
+}
