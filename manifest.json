@@ -2,7 +2,7 @@
     "name": "Stellar Blade GX",
     "description": "Reclaim Earth for Humankind by using this Opera GX mod. Eve needs your help!",
     "update_url": "https://api.gx.me/store/mods/update",
-    "version": "0.8",
+    "version": "1.1.0",
     "developer": {
       "name": "ThaBamboozler"
     },
@@ -94,29 +94,6 @@
               "TYPING_SPACE": [
                 "keyboard/sb_space.mp3"
               ]
-            }
-          }
-        ],
-        "image_overrides": [
-          {
-            "id": "image_overrides_01",
-            "name": "Stellar Blade GX (Icons)",
-            "images": {
-              "sidebar_bookmarks_button": "icons/sidebar_bookmarks_button.json",
-              "sidebar_downloads_button": "icons/sidebar_downloads_button.json",
-              "sidebar_extensions_button": "icons/sidebar_extensions_button.json",
-              "sidebar_gx_booster_button": "icons/sidebar_gx_booster_button.json",
-              "sidebar_history_button": "icons/sidebar_history_button.json",
-              "sidebar_limiters_button": "icons/sidebar_limiters_button.json",
-              "sidebar_mods_button": "icons/sidebar_mods_button.json",
-              "sidebar_settings_button": "icons/sidebar_settings_button.json",
-              "sidebar_shaders_button": "icons/sidebar_shaders_button.json",
-              "top_bar_account_button": "icons/top_bar_account_button.json",
-              "top_bar_back_button": "icons/top_bar_back_button.json",
-              "top_bar_downloads_button": "icons/top_bar_downloads_button.json",
-              "top_bar_easy_setup_button": "icons/top_bar_easy_setup_button.json",
-              "top_bar_forward_button": "icons/top_bar_forward_button.json",
-              "top_bar_reload_button": "icons/top_bar_reload_button.json"
             }
           }
         ],
