@@ -2,7 +2,7 @@
     "name": "Stellar Blade GX",
     "description": "Reclaim Earth for Humankind by using this Opera GX mod. Eve needs your help!",
     "update_url": "https://api.gx.me/store/mods/update",
-    "version": "0.7",
+    "version": "0.8",
     "developer": {
       "name": "ThaBamboozler"
     },
@@ -168,7 +168,7 @@
             "name": "Stellar Blade (Static Wallpaper)",
             "dark": {
               "image": "wallpaper/static_dark.jpg",
-               "image_mobile": "wallpaper/static_dark_mobile.jpg",
+              "image_mobile": "wallpaper/static_dark_mobile.jpg",
               "speeddial_position": "bottom",
               "text_color": "#77ff33",
               "text_shadow": "#FFFFFF",
