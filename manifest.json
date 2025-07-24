@@ -2,7 +2,7 @@
     "name": "Stellar Blade GX",
     "description": "Reclaim Earth for Humankind by using this Opera GX mod. Eve needs your help!",
     "update_url": "https://api.gx.me/store/mods/update",
-    "version": "1.1.0",
+    "version": "2.0.0",
     "developer": {
       "name": "ThaBamboozler"
     },
@@ -141,12 +141,46 @@
         ],
         "wallpaper": [
           {
+            "id": "wallpaper_00",
+            "name": "Stellar Blade GX (Animated)",
+            "dark": {
+              "first_frame": "wallpaper/animated_dark.jpg",
+              "image": "wallpaper/animated_dark.mp4",
+              "image_mobile": "wallpaper/animated_dark_mobile.mp4",
+              "speeddial_position": "top",
+              "text_color": "#77ff33",
+              "text_shadow": "#FFFFFF",
+              "ui_settings": {
+                "background_blur": 30,
+                "background_opacity": 75,
+                "focus_mode": false,
+                "islands_opacity": 85,
+                "vignette_strength": 25
+              }
+            },
+            "light": {
+              "first_frame": "wallpaper/animated_light.jpg",
+              "image": "wallpaper/animated_light.mp4",
+              "image_mobile": "wallpaper/animated_light_mobile.mp4",
+              "speeddial_position": "left",
+              "text_color": "#0D4AF2",
+              "text_shadow": "#FFFFFF",
+              "ui_settings": {
+                "background_blur": 10,
+                "background_opacity": 30,
+                "focus_mode": false,
+                "islands_opacity": 70,
+                "vignette_strength": 20
+              }
+            }
+          },
+          {
             "id": "wallpaper_01",
-            "name": "Stellar Blade (Static Wallpaper)",
+            "name": "Stellar Blade GX (Static)",
             "dark": {
               "image": "wallpaper/static_dark.jpg",
               "image_mobile": "wallpaper/static_dark_mobile.jpg",
-              "speeddial_position": "bottom",
+              "speeddial_position": "left",
               "text_color": "#77ff33",
               "text_shadow": "#FFFFFF",
               "ui_settings": {
@@ -159,7 +193,39 @@
             },
             "light": {
               "image": "wallpaper/static_light.jpg",
-               "image_mobile": "wallpaper/static_light_mobile.jpg",
+              "image_mobile": "wallpaper/static_light_mobile.jpg",
+              "speeddial_position": "top",
+              "text_color": "#0D4AF2",
+              "text_shadow": "#FFFFFF",
+              "ui_settings": {
+                "background_blur": 10,
+                "background_opacity": 30,
+                "focus_mode": false,
+                "islands_opacity": 70,
+                "vignette_strength": 20
+              }
+            }
+          },
+          {
+            "id": "wallpaper_02",
+            "name": "Stellar Blade GX (Static 2)",
+            "dark": {
+              "image": "wallpaper/static_dark_02.jpg",
+              "image_mobile": "wallpaper/static_dark_mobile_02.jpg",
+              "speeddial_position": "top",
+              "text_color": "#77ff33",
+              "text_shadow": "#FFFFFF",
+              "ui_settings": {
+                "background_blur": 30,
+                "background_opacity": 75,
+                "focus_mode": false,
+                "islands_opacity": 85,
+                "vignette_strength": 25
+              }
+            },
+            "light": {
+              "image": "wallpaper/static_light_02.jpg",
+              "image_mobile": "wallpaper/static_light_mobile_02.jpg",
               "speeddial_position": "top",
               "text_color": "#0D4AF2",
               "text_shadow": "#FFFFFF",
