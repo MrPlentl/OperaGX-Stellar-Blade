@@ -1,5 +1,10 @@
 # OperaGX-Stellar-Blade
-Version 1: "Mother Sphere" - has been released and is ready to be downloaded [HERE](https://store.gx.me/mods/gsmt8t/stellar-blade-gx/)
+Download [HERE](https://store.gx.me/mods/gsmt8t/stellar-blade-gx/)
+
+v2 (Eve): Released July 24, 2025
+- Animated Wallpaper is now included!
+v1 (Mother Sphere): Released July 21, 2025
+- The first version of the Stellar Blade theme has been released
 
 Link: [https://store.gx.me/mods/gsmt8t/stellar-blade-gx/](https://store.gx.me/mods/gsmt8t/stellar-blade-gx/)
 
