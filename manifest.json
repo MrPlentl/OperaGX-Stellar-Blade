@@ -2,7 +2,7 @@
     "name": "Stellar Blade GX",
     "description": "Reclaim Earth for Humankind by using this Opera GX mod. Eve needs your help!",
     "update_url": "https://api.gx.me/store/mods/update",
-    "version": "2.1.0",
+    "version": "2.2.0",
     "developer": {
       "name": "ThaBamboozler"
     },
@@ -85,13 +85,15 @@
                 "keyboard/sb_enter.mp3"
               ],
               "TYPING_LETTER": [
-                "keyboard/sb_letter_1.mp3",
-                "keyboard/sb_letter_2.mp3",
-                "keyboard/sb_letter_1.mp3",
-                "keyboard/sb_letter_1.mp3",
-                "keyboard/sb_letter_1.mp3",
-                "keyboard/sb_letter_2.mp3",
-                "keyboard/sb_letter_2.mp3"
+                "keyboard/sb_letter_1a.mp3",
+                "keyboard/sb_letter_2a.mp3",
+                "keyboard/sb_letter_1b.mp3",
+                "keyboard/sb_letter_1a.mp3",
+                "keyboard/sb_letter_1b.mp3",
+                "keyboard/sb_letter_2b.mp3",
+                "keyboard/sb_letter_2a.mp3",
+                "keyboard/sb_letter_1a.mp3",
+                "keyboard/sb_letter_2b.mp3"
               ],
               "TYPING_SPACE": [
                 "keyboard/sb_space.mp3"
