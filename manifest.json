@@ -2,7 +2,7 @@
     "name": "Stellar Blade GX",
     "description": "Reclaim Earth for Humankind by using this Opera GX mod. Eve needs your help!",
     "update_url": "https://api.gx.me/store/mods/update",
-    "version": "2.2.0",
+    "version": "3.0.0",
     "developer": {
       "name": "ThaBamboozler"
     },
@@ -241,8 +241,58 @@
                 "vignette_strength": 20
               }
             }
+          },
+          {
+            "id": "wallpaper_03",
+            "name": "Stellar Blade GX (Static 3)",
+            "dark": {
+              "image": "wallpaper/static_dark_03.jpg",
+              "image_mobile": "wallpaper/static_dark_mobile_02.jpg",
+              "speeddial_position": "bottom",
+              "text_color": "#77ff33",
+              "text_shadow": "#FFFFFF",
+              "ui_settings": {
+                "background_blur": 30,
+                "background_opacity": 75,
+                "focus_mode": false,
+                "islands_opacity": 85,
+                "vignette_strength": 25
+              }
+            }
+          },
+          {
+            "id": "wallpaper_04",
+            "name": "Stellar Blade GX (Static 4)",
+            "dark": {
+              "image": "wallpaper/static_dark_lily.jpg",
+              "image_mobile": "wallpaper/static_dark_mobile_lily.jpg",
+              "speeddial_position": "left",
+              "text_color": "#77ff33",
+              "text_shadow": "#FFFFFF",
+              "ui_settings": {
+                "background_blur": 30,
+                "background_opacity": 75,
+                "focus_mode": false,
+                "islands_opacity": 85,
+                "vignette_strength": 25
+              }
+            },
+            "light": {
+              "image": "wallpaper/static_light_lily.jpg",
+              "image_mobile": "wallpaper/static_light_mobile_lily.jpg",
+              "speeddial_position": "bottom",
+              "text_color": "#0D4AF2",
+              "text_shadow": "#FFFFFF",
+              "ui_settings": {
+                "background_blur": 10,
+                "background_opacity": 30,
+                "focus_mode": false,
+                "islands_opacity": 70,
+                "vignette_strength": 20
+              }
+            }
           }
         ]
       }
     }
-  }
+}
